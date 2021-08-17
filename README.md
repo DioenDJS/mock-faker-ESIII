@@ -19,3 +19,35 @@ Os dados devem estar em ``pt_BR``;
 Os dados devem ser coerentes com os seus campos. Ex: é impossível que algum cliente tenha nascido em ``2022``;
 As datas de nascimento devem ser entre ``1910 a 2019``.
 Os nomes devem ser nomes completos.
+
+> 1. Desenvolva, utilizando filter , uma função que, dado um caractere de entrada, retorne todos os registros de clientes cujo o nome inicia com o caractere.
+
+> 2. Retorne o array de clientes
+
+> 3. Desenvolva uma função que, dado o caractere de entrada, retorna apenas um número com o total de registros >encontrados.
+
+> 4. Desenvolva uma função que retorne apenas os nomes dos clientes.
+
+> 5. Desenvolva uma função que retorne apenas o primeiro nome dos clientes.
+
+> 6. Desenvolva uma função que retorne apenas o primeiro nome dos clientes cujo os nomes começam com o caractere de entrada da função.
+
+> 7. Desenvolva uma função que retorne todos os usuários que são maiores de idade.
+
+> 8. Desenvolva uma função que, dado um nome de entrada, retorna se o nome está contido na lista.
+
+> 9. Implemente uma função que retorna o total de vendas realizadas somando as compras de todos os clientes.
+
+> 10. Implemente uma função que retorne os dados dos clientes que não compram há mais de 1 ano.
+
+> 11. Implemente uma função que retorne os dados dos clientes que já realizaram mais de 15 compras.
+
+## Como executar :gear:
+
+- Clone o repositório
+- Rode o `npm run dev` para iniciar a aplicação.
+
+## Dependências do Projetos :card_index_dividers:
+> - nodemon
+>
+>```npm install nodemon -D ```
