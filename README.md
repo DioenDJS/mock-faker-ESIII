@@ -51,3 +51,7 @@ Os nomes devem ser nomes completos.
 > - nodemon
 >
 >```npm install nodemon -D ```
+
+> - faker.js
+> 
+>```npm install faker -D```
